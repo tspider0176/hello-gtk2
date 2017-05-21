@@ -3,7 +3,7 @@ The very beggining of using gtk2 on Ruby
 
 ### init
 ```
-bundle install
+bundle install --path vendor/bundle
 ```
 
 ### run
